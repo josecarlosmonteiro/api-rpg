@@ -1,0 +1,58 @@
+module.exports = {
+   umaMao: {
+      name: 'Uma Mão',
+      type: 'ataque físico',
+      description: 'Melhoria de habilidades com armas físicas de uma mão.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   escudo: {
+      name: 'Escudo',
+      type: 'defesa física',
+      description: 'Melhora habilidades de bloqueio, auxiliando a defesa.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   destruicao: {
+      name: 'Destruição',
+      type: 'ataque mágico',
+      description: 'Potencializa feitiços de dano, melhorando o poder e efeitos dos feitiços.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   alteracao: {
+      name: 'Alteração',
+      type: 'defesa mágica',
+      description: 'Auxilia na defesa mágica, alterando itens e equipamentos durante a batalha.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   arquearia: {
+      name: 'Arquearia',
+      type: 'ataque físico',
+      description: 'Melhora o dano, alcance e precisão com arcos e bestas',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   furtividade: {
+      name: 'Furtividade',
+      type: 'furtividade',
+      description: 'Auxilia na fuga e camuflagem, ajudando a passar despercebido ou despistar inimigos se escondendo em plena vista.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   },
+   alquimia: {
+      name: 'Alquimia',
+      type: 'poções',
+      description: 'Melhora as chances na criação de uma poção, bem como seu poder e efeitos.',
+      level: 1,
+      exp: 0,
+      nextLevel: 100,
+   }
+}
