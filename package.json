@@ -1,0 +1,11 @@
+{
+  "name": "api-rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/josecarlosmonteiro/api-rpg.git",
+  "author": "jos1119980 <jose.araujo@prestadores.uhgbrasil.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
