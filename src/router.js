@@ -7,5 +7,6 @@ router.get('/', (req, res) => {
 });
 
 require('./middlewares/player.middleware')(router);
+require('./middlewares/enemy.middleware')(router);
 
 module.exports = router;
